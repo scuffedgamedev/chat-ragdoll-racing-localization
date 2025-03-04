@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-br" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="d67de28e5aeba1843ad8695d242dd8ce" original="Assets/localization/loc/UI_Text_pt-br.asset">
+    <group id="b023f2ee53d71d441832ee7188be2ef5" name="UI_Text">
+      <unit id="49914634240" name="twitch-login" xml:space="preserve">
+        <segment>
+          <source>Login</source>
+          <target>Login na Twitch</target>
+        </segment>
+      </unit>
+      <unit id="336524009472" name="single-player" xml:space="preserve">
+        <segment>
+          <source>Single Player</source>
+          <target>Um jogador</target>
+        </segment>
+      </unit>
+      <unit id="5368258551808" name="settings" xml:space="preserve">
+        <segment>
+          <source>Settings</source>
+          <target>Configurações</target>
+        </segment>
+      </unit>
+      <unit id="5759691972608" name="credits" xml:space="preserve">
+        <segment>
+          <source>Credits</source>
+          <target>Créditos</target>
+        </segment>
+      </unit>
+      <unit id="6135300284416" name="quit" xml:space="preserve">
+        <segment>
+          <source>Quit</source>
+          <target>Sair</target>
+        </segment>
+      </unit>
+      <unit id="6242364088320" name="clear-cache" xml:space="preserve">
+        <segment>
+          <source>Clear Cache</source>
+          <target>Limpar Cache</target>
+        </segment>
+      </unit>
+      <unit id="6907400347648" name="waiting-for-login" xml:space="preserve">
+        <segment>
+          <source>Waiting for login...</source>
+          <target>Aguardado login…</target>
+        </segment>
+      </unit>
+      <unit id="9041458028544" name="controls" xml:space="preserve">
+        <segment>
+          <source>Controls</source>
+          <target>Controles</target>
+        </segment>
+      </unit>
+      <unit id="9373168754688" name="resume" xml:space="preserve">
+        <segment>
+          <source>Resume</source>
+          <target>Continuar</target>
+        </segment>
+      </unit>
+      <unit id="10319017861120" name="game-mode" xml:space="preserve">
+        <segment>
+          <source>Game mode</source>
+          <target>Modo de jogo</target>
+        </segment>
+      </unit>
+      <unit id="10471992516608" name="ffa" xml:space="preserve">
+        <segment>
+          <source>Free for all</source>
+          <target>Livre para todos</target>
+        </segment>
+      </unit>
+      <unit id="10566846701568" name="competitive" xml:space="preserve">
+        <segment>
+          <source>Competitive</source>
+          <target>Competitivo</target>
+        </segment>
+      </unit>
+      <unit id="10875711053824" name="horse-racing" xml:space="preserve">
+        <segment>
+          <source>Horse Racing</source>
+          <target>Corrida de Cavalos</target>
+        </segment>
+      </unit>
+      <unit id="11239600480256" name="ffa-explanation" xml:space="preserve">
+        <segment>
+          <source>* For fun play mode where streamer can interact with the world with variables and commands
+* Join through chat
+* No leaderboard</source>
+          <target>* Modo para diversão, no qual o streamer pode ingeragir com as variaveis e comandos do mundo * Participe pelo chat * Sem placar</target>
+        </segment>
+      </unit>
+      <unit id="12044252536832" name="competitive-explanation" xml:space="preserve">
+        <segment>
+          <source>* Basic Competitive gamemode
+* Join through chat
+* No variables or commands
+* Leaderboard</source>
+          <target>* Modo competitivo básico * Participe pelo chat * Sem variáveis ou comandos * Com placar</target>
+        </segment>
+      </unit>
+      <unit id="20097798561792" name="movement" xml:space="preserve">
+        <segment>
+          <source>Movement</source>
+          <target>Movimentação</target>
+        </segment>
+      </unit>
+      <unit id="20186382262272" name="rotation" xml:space="preserve">
+        <segment>
+          <source>Rotation</source>
+          <target>Rotação</target>
+        </segment>
+      </unit>
+      <unit id="20360928223232" name="follow-player" xml:space="preserve">
+        <segment>
+          <source>Follow Player</source>
+          <target>Seguir jogador</target>
+        </segment>
+      </unit>
+      <unit id="21271545176064" name="horse-explanation" xml:space="preserve">
+        <segment>
+          <source>
+* Competitve gamemode
+* No joining through chat
+* Vote on winning player</source>
+          <target>* Modo Competitivo * Sem participação pelo chat * Vote no jogador vencedor</target>
+        </segment>
+      </unit>
+      <unit id="21611011170304" name="back" xml:space="preserve">
+        <segment>
+          <source>Back</source>
+          <target>Voltar</target>
+        </segment>
+      </unit>
+      <unit id="21834177503232" name="level-selection" xml:space="preserve">
+        <segment>
+          <source>Level Selection</source>
+          <target>Seleção de mapa</target>
+        </segment>
+      </unit>
+      <unit id="22417005404160" name="start" xml:space="preserve">
+        <segment>
+          <source>Start</source>
+          <target>Iniciar</target>
+        </segment>
+      </unit>
+      <unit id="22448743702528" name="spawn-players" xml:space="preserve">
+        <segment>
+          <source>Spawn players</source>
+          <target>Criar jogadores</target>
+        </segment>
+      </unit>
+      <unit id="22513839300608" name="respawn-obstacles" xml:space="preserve">
+        <segment>
+          <source>Respawn obstacles</source>
+          <target>Criar obstáculos</target>
+        </segment>
+      </unit>
+      <unit id="26586185523200" name="setting" xml:space="preserve">
+        <segment>
+          <source>Settings</source>
+          <target>Configurações</target>
+        </segment>
+      </unit>
+      <unit id="30438129459200" name="manual camera" xml:space="preserve">
+        <segment>
+          <source>Manual camera</source>
+          <target>Camera manual</target>
+        </segment>
+      </unit>
+      <unit id="30532958478336" name="nameplates" xml:space="preserve">
+        <segment>
+          <source>Nameplates</source>
+          <target>Exibir nomes</target>
+        </segment>
+      </unit>
+      <unit id="30578256961536" name="optimized" xml:space="preserve">
+        <segment>
+          <source>Optimized</source>
+          <target>Otimizado</target>
+        </segment>
+      </unit>
+      <unit id="30695865245696" name="multispawns" xml:space="preserve">
+        <segment>
+          <source>1 join per player</source>
+        </segment>
+      </unit>
+      <unit id="30970571186176" name="automatic start" xml:space="preserve">
+        <segment>
+          <source>Automatic Start</source>
+          <target>Início Automático</target>
+        </segment>
+      </unit>
+      <unit id="31058051784704" name="characters per player" xml:space="preserve">
+        <segment>
+          <source>Characters Per Player</source>
+          <target>Personagens por jogador</target>
+        </segment>
+      </unit>
+      <unit id="31146195083264" name="max ragdolls" xml:space="preserve">
+        <segment>
+          <source>Max Ragdolls</source>
+          <target>Máximo de bonecos</target>
+        </segment>
+      </unit>
+      <unit id="31309663887360" name="camera movement speed" xml:space="preserve">
+        <segment>
+          <source>camera movement speed</source>
+          <target>Velocidade da câmera</target>
+        </segment>
+      </unit>
+      <unit id="31409890975744" name="mouse sensitivity" xml:space="preserve">
+        <segment>
+          <source>mouse sensitivity</source>
+          <target>Sensibilidade do mouse</target>
+        </segment>
+      </unit>
+      <unit id="31466149175296" name="soundEffects" xml:space="preserve">
+        <segment>
+          <source>Sound Effects</source>
+          <target>Efeitos sonoros</target>
+        </segment>
+      </unit>
+      <unit id="31595497316352" name="full screen" xml:space="preserve">
+        <segment>
+          <source>full screen</source>
+          <target>Tela cheia</target>
+        </segment>
+      </unit>
+      <unit id="31722630864896" name="enable particles" xml:space="preserve">
+        <segment>
+          <source>enable particles</source>
+          <target>Habilitar partículas</target>
+        </segment>
+      </unit>
+      <unit id="31797767626752" name="enable character dragging" xml:space="preserve">
+        <segment>
+          <source>enable character dragging</source>
+          <target>Habilitar arrastar personagem</target>
+        </segment>
+      </unit>
+      <unit id="31899777294336" name="enable streamer icon" xml:space="preserve">
+        <segment>
+          <source>enable streamer icon</source>
+          <target>Ahabilitar ícone do streamer</target>
+        </segment>
+      </unit>
+      <unit id="32398580703232" name="resolution" xml:space="preserve">
+        <segment>
+          <source>Resolution</source>
+          <target>Resolução</target>
+        </segment>
+      </unit>
+      <unit id="34571590885376" name="enable obstacles command" xml:space="preserve">
+        <segment>
+          <source>enable obstacles command</source>
+          <target>Habilitar comando de obstáculos</target>
+        </segment>
+      </unit>
+      <unit id="34748288524288" name="enable jump command" xml:space="preserve">
+        <segment>
+          <source>enable jump command</source>
+          <target>Habilitar comando de pular</target>
+        </segment>
+      </unit>
+      <unit id="34792983027712" name="enable pathfinding" xml:space="preserve">
+        <segment>
+          <source>enhanced AI</source>
+          <target>IA melhorada</target>
+        </segment>
+      </unit>
+      <unit id="35746713231360" name="timescale" xml:space="preserve">
+        <segment>
+          <source>timescale</source>
+          <target>Escala do tempo</target>
+        </segment>
+      </unit>
+      <unit id="36392522801152" name="speed" xml:space="preserve">
+        <segment>
+          <source>Running speed</source>
+          <target>Velocidade de corrida</target>
+        </segment>
+      </unit>
+      <unit id="36443659755520" name="obstacle cooldown" xml:space="preserve">
+        <segment>
+          <source>obstacle cooldown</source>
+          <target>Cooldown de obstáculos</target>
+        </segment>
+      </unit>
+      <unit id="36946162540544" name="up force" xml:space="preserve">
+        <segment>
+          <source>up force</source>
+          <target>Força para levantar</target>
+        </segment>
+      </unit>
+      <unit id="37104065503232" name="head muscle strength" xml:space="preserve">
+        <segment>
+          <source>head muscle strength</source>
+          <target>Força do músculo da cabeça</target>
+        </segment>
+      </unit>
+      <unit id="37221304688640" name="leg muscle strength" xml:space="preserve">
+        <segment>
+          <source>leg muscle strength</source>
+          <target>Força do músculo da perna</target>
+        </segment>
+      </unit>
+      <unit id="37284290551808" name="hand muscle strength" xml:space="preserve">
+        <segment>
+          <source>hand muscle strength</source>
+          <target>Força do músculo da mão</target>
+        </segment>
+      </unit>
+      <unit id="37436849971200" name="torso strength" xml:space="preserve">
+        <segment>
+          <source>torso strength</source>
+          <target>Força do torso</target>
+        </segment>
+      </unit>
+      <unit id="37503052865536" name="balance" xml:space="preserve">
+        <segment>
+          <source>balance</source>
+          <target>Balanço</target>
+        </segment>
+      </unit>
+      <unit id="37573580087296" name="enable minimap" xml:space="preserve">
+        <segment>
+          <source>enable minimap</source>
+          <target>Habilitar minimapa</target>
+        </segment>
+      </unit>
+      <unit id="375331431440384" name="map-city" xml:space="preserve">
+        <segment>
+          <source>City</source>
+        </segment>
+      </unit>
+      <unit id="375355687100416" name="map-dungeon" xml:space="preserve">
+        <segment>
+          <source>Dungeon</source>
+        </segment>
+      </unit>
+      <unit id="375375815565312" name="map-western" xml:space="preserve">
+        <segment>
+          <source>Western</source>
+        </segment>
+      </unit>
+      <unit id="375785406128128" name="default-instructions" xml:space="preserve">
+        <segment>
+          <source>!join to participate
+!obstacle to spawn obstacles
+!jump to add upwards force</source>
+        </segment>
+      </unit>
+      <unit id="376736133210112" name="language" xml:space="preserve">
+        <segment>
+          <source>language</source>
+        </segment>
+      </unit>
+      <unit id="376977909669888" name="horse-instructions" xml:space="preserve">
+        <segment>
+          <source>vote for winning player in chat</source>
+        </segment>
+      </unit>
+      <unit id="377304025194496" name="has died." xml:space="preserve">
+        <segment>
+          <source>has died.</source>
+        </segment>
+      </unit>
+      <unit id="377339454480384" name="just discovered gravity!" xml:space="preserve">
+        <segment>
+          <source>just discovered gravity!</source>
+        </segment>
+      </unit>
+      <unit id="377463261945856" name="has joined the race!" xml:space="preserve">
+        <segment>
+          <source>has joined the race!</source>
+        </segment>
+      </unit>
+      <unit id="442741228363776" name="Starting:" xml:space="preserve">
+        <segment>
+          <source>Starting:</source>
+        </segment>
+      </unit>
+      <unit id="1937384038260736" name="has finished the the race at:" xml:space="preserve">
+        <segment>
+          <source>has finished the the race at:</source>
+        </segment>
+      </unit>
+      <unit id="1958597670264832" name="just fell off!" xml:space="preserve">
+        <segment>
+          <source>just fell off!</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
