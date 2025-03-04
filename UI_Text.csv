@@ -1,5 +1,5 @@
 ﻿Key,Id,English(en),Finnish(fi),German(de),Portuguese (Brazil)(pt-br),Russian(ru),Swedish(sv)
-"twitch-login",49914634240,"Login","Kirjaudu","Bei Twitch anmelden","Login na Twitch","Войти через Twitch","Logga in på Twitch"
+"twitch-login",49914634240,"Login","Kirjaudu","Anmelden","Login na Twitch","Войти через Twitch","Logga in på Twitch"
 "single-player",336524009472,"Single Player","Yksinpeli","Einzelspieler","Um jogador","Одиночная игра","Singleplayer"
 "settings",5368258551808,"Settings","Asetukset","Einstellungen","Configurações","Настройки","Inställningar"
 "credits",5759691972608,"Credits","Tekijät","Credits","Créditos","О проекте","Credits"
@@ -7,7 +7,7 @@
 "clear-cache",6242364088320,"Clear Cache","Resetoi välimuisti","Cache leeren","Limpar Cache","Очистить кэш","Töm cache"
 "waiting-for-login",6907400347648,"Waiting for login...","Odotetaan kirjautumista..","Warte auf Anmeldung…","Aguardado login…","Выполняется вход...","Väntar på inloggning"
 "controls",9041458028544,"Controls","Kontrollit","Steuerung","Controles","Управление","Kontroller"
-"resume",9373168754688,"Resume","Jatka peliä","Weiter","Continuar","Продолжить","Fortsätt"
+"resume",9373168754688,"Resume","Jatka peliä","Fortsetzen","Continuar","Продолжить","Fortsätt"
 "game-mode",10319017861120,"Game mode","Pelimuoto","Spielmodus","Modo de jogo","Режим игры","Spelläge"
 "ffa",10471992516608,"Free for all","Vapaa","Jeder gegen jeden","Livre para todos","Все против всех","Alla mot alla"
 "competitive",10566846701568,"Competitive","Kilpailullinen","Wettkampf","Competitivo","Соревнование","Tävling"
@@ -48,7 +48,7 @@
 * Стример и игроки не контролируют игру
 * Можно голосовать за победителя",
 "back",21611011170304,"Back","Takaisin","Zurück","Voltar","Назад","Bakåt"
-"level-selection",21834177503232,"Level Selection","Kartta","Level-Auswahl","Seleção de mapa","Выбор уровня","Välj bana"
+"level-selection",21834177503232,"Level Selection","Kartta","Kartenauswahl","Seleção de mapa","Выбор уровня","Välj bana"
 "start",22417005404160,"Start","Aloita","Start","Iniciar","Начать","Start"
 "spawn-players",22448743702528,"Spawn players","Lisää pelaajia","Spieler hinzufügen","Criar jogadores","Разместить игроков","Skapa spelare"
 "respawn-obstacles",22513839300608,"Respawn obstacles","Lisää esteitä","Hindernisse neu spawnen","Criar obstáculos","Сброс препятствий","Skapa om hinder"
@@ -63,7 +63,7 @@
 "camera movement speed",31309663887360,"camera movement speed","kameran liikkumisnopeus","Kamera Geschwindigkeit","Velocidade da câmera","Скорость камеры","Kamerahastighet"
 "mouse sensitivity",31409890975744,"mouse sensitivity","hiiren sensitiviteetti","Maus Sensitivität","Sensibilidade do mouse","Чувствительности мыши","Muskänslighet"
 "soundEffects",31466149175296,"Sound Effects","ääniefektien volyymi","Soundeffekte","Efeitos sonoros","Звуковые эффекты","Ljudeffekter"
-"full screen",31595497316352,"full screen","kokonäyttötila","Vollbild","Tela cheia","Полный экран","Helskärm"
+"full screen",31595497316352,"full screen","kokonäyttötila","Vollbildmodus","Tela cheia","Полный экран","Helskärm"
 "enable particles",31722630864896,"enable particles","Partiikkelit","Partikel anzeigen","Habilitar partículas","Частицы","Partikeleffekter"
 "enable character dragging",31797767626752,"enable character dragging","hahmojen vetäminen hiirellä","Charakter manipulation aktivieren","Habilitar arrastar personagem","Перетаскивание игроков","Drag & Drop spelare"
 "enable streamer icon",31899777294336,"enable streamer icon","näytä streami iconi paidassa","Streamer Symbol anzeigen","Ahabilitar ícone do streamer","Иконка стримера","Streamer ikon"
@@ -79,19 +79,21 @@
 "leg muscle strength",37221304688640,"leg muscle strength","jalkalihasten vahvuus","Beinmuskel Stärke","Força do músculo da perna","Мощность ног","Muskelstyrka för benen"
 "hand muscle strength",37284290551808,"hand muscle strength","käsilihasten vahvuus","Handmuskel Stärke","Força do músculo da mão","Мощность рук","Muskestyrka för händerna"
 "torso strength",37436849971200,"torso strength","vartalolihaksen vahvuus","Oberkörper Stärke","Força do torso","Мощность торса","Muskelstyrka för kroppen"
-"balance",37503052865536,"balance","tasapainotuksen vahvuus","Charakter Gleichgewichtskraft","Balanço","Баланс","Balans"
+"balance",37503052865536,"balance","tasapainotuksen vahvuus","Charakter Gesamtstärke","Balanço","Баланс","Balans"
 "enable minimap",37573580087296,"enable minimap","käytä pikkukarttaa","Minikarte aktivieren","Habilitar minimapa","Мини карта","Använd miniatyrkarta"
-"map-city",375331431440384,"City","Kaupunki",,,,
-"map-dungeon",375355687100416,"Dungeon","Vankityrmä",,,,
-"map-western",375375815565312,"Western","Länsimainen",,,,
+"map-city",375331431440384,"City","Kaupunki","Stadt",,,
+"map-dungeon",375355687100416,"Dungeon","Vankityrmä","Verlies",,,
+"map-western",375375815565312,"Western","Länsimainen","Western",,,
 "default-instructions",375785406128128,"!join to participate
 !obstacle to spawn obstacles
 !jump to add upwards force","!join liittyäksesi
 !obstacle spawnaa esteen
-!jump hyppää hahmollasi",,,,
-"language",376736133210112,"language","kieli",,,,
-"horse-instructions",376977909669888,"vote for winning player in chat","äänestä voittajaa chatissa",,,,
-"has died.",377304025194496,"has died.","kuoli.",,,,
-"just discovered gravity!",377339454480384,"just discovered gravity!","keksi painovoiman!",,,,
-"has joined the race!",377463261945856,"has joined the race!","littyi kisaan!",,,,
-"Starting:",442741228363776,"Starting:","Alku:",,,,
+!jump hyppää hahmollasi","!join um beizutreten
+!obstacle um Hindernisse hinzuzufügen
+!jump um zu springen",,,
+"language",376736133210112,"Language","kieli","Sprache",,,
+"horse-instructions",376977909669888,"vote for winning player in chat","äänestä voittajaa chatissa","Wette auf deinen Favoriten im Chat",,,
+"has died.",377304025194496,"has died.","kuoli.","ist gestorben.",,,
+"just discovered gravity!",377339454480384,"just discovered gravity!","keksi painovoiman!","hat die Schwerkraft entdeckt!",,,
+"has joined the race!",377463261945856,"has joined the race!","littyi kisaan!","ist dem Rennen beigetreten!",,,
+"Starting:",442741228363776,"Starting:","Alku:","Starte in:",,,
