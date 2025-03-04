@@ -1,28 +1,28 @@
 ﻿Key,Id,English(en),Finnish(fi),German(de),Portuguese (Brazil)(pt-br),Russian(ru),Swedish(sv)
-"twitch-login",49914634240,"Login","Kirjaudu","Bei Twitch anmelden","Login na Twitch","Войти через Twitch","Logga in på Twitch"
-"single-player",336524009472,"Single Player","Yksinpeli","Einzelspieler","Um jogador","Одиночная игра","Singleplayer"
-"settings",5368258551808,"Settings","Asetukset","Einstellungen","Configurações","Настройки","Inställningar"
-"credits",5759691972608,"Credits","Tekijät","Credits","Créditos","О проекте","Credits"
-"quit",6135300284416,"Quit","Sulje peli","Beenden","Sair","Выйти","Avsluta"
-"clear-cache",6242364088320,"Clear Cache","Resetoi välimuisti","Cache leeren","Limpar Cache","Очистить кэш","Töm cache"
-"waiting-for-login",6907400347648,"Waiting for login...","Odotetaan kirjautumista..","Warte auf Anmeldung…","Aguardado login…","Выполняется вход...","Väntar på inloggning"
-"controls",9041458028544,"Controls","Kontrollit","Steuerung","Controles","Управление","Kontroller"
-"resume",9373168754688,"Resume","Jatka peliä","Weiter","Continuar","Продолжить","Fortsätt"
-"game-mode",10319017861120,"Game mode","Pelimuoto","Spielmodus","Modo de jogo","Режим игры","Spelläge"
-"ffa",10471992516608,"Free for all","Vapaa","Jeder gegen jeden","Livre para todos","Все против всех","Alla mot alla"
-"competitive",10566846701568,"Competitive","Kilpailullinen","Wettkampf","Competitivo","Соревнование","Tävling"
-"horse-racing",10875711053824,"Horse Racing","Hevosralli","Pferderennen","Corrida de Cavalos","Скачки","Hästrace"
-"ffa-explanation",11239600480256,"* For fun play mode where streamer can interact with the world with variables and commands
-* Join through chat
-* No leaderboard","* Vapaa, huvittava pelimuoto, missä ei ole rajoja mitä streamaaja voi tehdä
+twitch-login,49914634240,Login,Kirjaudu,Bei Twitch anmelden,Login na Twitch,Войти через Twitch,Logga in på Twitch
+single-player,336524009472,Single Player,Yksinpeli,Einzelspieler,Um jogador,Одиночная игра,Singleplayer
+settings,5368258551808,Settings,Asetukset,Einstellungen,Configurações,Настройки,Inställningar
+credits,5759691972608,Credits,Tekijät,Credits,Créditos,О проекте,Credits
+quit,6135300284416,Quit,Sulje peli,Beenden,Sair,Выйти,Avsluta
+clear-cache,6242364088320,Clear Cache,Resetoi välimuisti,Cache leeren,Limpar Cache,Очистить кэш,Töm cache
+waiting-for-login,6907400347648,Waiting for login...,Odotetaan kirjautumista..,Warte auf Anmeldung…,Aguardando login…,Выполняется вход...,Väntar på inloggning
+controls,9041458028544,Controls,Kontrollit,Steuerung,Controles,Управление,Kontroller
+resume,9373168754688,Resume,Jatka peliä,Weiter,Continuar,Продолжить,Fortsätt
+game-mode,10319017861120,Game mode,Pelimuoto,Spielmodus,Modo de jogo,Режим игры,Spelläge
+ffa,10471992516608,Free for all,Vapaa,Jeder gegen jeden,Livre para todos,Все против всех,Alla mot alla
+competitive,10566846701568,Competitive,Kilpailullinen,Wettkampf,Competitivo,Соревнование,Tävling
+horse-racing,10875711053824,Horse Racing,Hevosralli,Pferderennen,Corrida de Cavalos,Скачки,Hästrace
+ffa-explanation,11239600480256,* For fun play mode where streamer can interact with the world with variables and commands * Join through chat * No leaderboard,,,"* Modo para diversão, no qual o streamer pode ingeragir com as variaveis e comandos do mundo * Participe pelo chat * Sem placar"
+* Join through chat,,,,,* Modo competitivo básico * Participe pelo chat * Sem variáveis ou comandos * Com placar
+"* No leaderboard""","* Vapaa, huvittava pelimuoto, missä ei ole rajoja mitä streamaaja voi tehdä
 * Liittyminen chatin kautta
 * Ei rankiglistaa","* Spannender Spielmodus, in dem der Streamer die Welt mit Voreinstellungen und Kommandos kontrolliert.
 * Mach mit im Chat!
-* Keine Rangliste.",,"* Интерактивный режим, самое веселье :)
+* Keine Rangliste.","* Modo para diversão, no qual o streamer pode ingeragir com as variaveis e comandos do mundo * Participe pelo chat *","* Интерактивный режим, самое веселье :)
 * Cтример контролирует ход игры через команды и переменные
 * Подключение к игре через чат
-* Без доски лидеров",
-"competitive-explanation",12044252536832,"* Basic Competitive gamemode
+* Без доски лидеров",Movimentação
+competitive-explanation,12044252536832,"* Basic Competitive gamemode
 * Join through chat
 * No variables or commands
 * Leaderboard","* Perus kilpailumoodi
@@ -34,64 +34,64 @@
 * Стример не контролирует игру
 * Подключение к игре через чат
 * Есть доска лидеров",
-"movement",20097798561792,"Movement","Ohjaus","Bewegung","Movimentação","Движение","Förflyttning"
-"rotation",20186382262272,"Rotation","Kameran kääntäminen","Drehung","Rotação","Вращение","Rotation"
-"follow-player",20360928223232,"Follow Player","Seuraa pelaajaa","Spieler folgen","Seguir jogador","Отслеживать","Följ spelare"
-"horse-explanation",21271545176064,"
+movement,20097798561792,Movement,Ohjaus,Bewegung,tela cheia,Движение,Förflyttning
+rotation,20186382262272,Rotation,Kameran kääntäminen,Drehung,habilitar partículas,Вращение,Rotation
+follow-player,20360928223232,Follow Player,Seuraa pelaajaa,Spieler folgen,habilitar arrastar personagem,Отслеживать,Följ spelare
+horse-explanation,21271545176064,"
 * Competitve gamemode
 * No joining through chat
 * Vote on winning player","* Kilpailullinen pelimoodi
 * Ei chattiliittymistä
 * Äänestä voittajaa chatin kautta","* Profi-Wettkampfmodus
 * keine Beteiligung im Chat
-* Wetten auf den Gewinner",,"* Гонка лошадей!
+* Wetten auf den Gewinner",* Modo Competitivo * Sem participação pelo chat * Vote no jogador vencedor,"* Гонка лошадей!
 * Стример и игроки не контролируют игру
 * Можно голосовать за победителя",
-"back",21611011170304,"Back","Takaisin","Zurück","Voltar","Назад","Bakåt"
-"level-selection",21834177503232,"Level Selection","Kartta","Level-Auswahl","Seleção de mapa","Выбор уровня","Välj bana"
-"start",22417005404160,"Start","Aloita","Start","Iniciar","Начать","Start"
-"spawn-players",22448743702528,"Spawn players","Lisää pelaajia","Spieler hinzufügen","Criar jogadores","Разместить игроков","Skapa spelare"
-"respawn-obstacles",22513839300608,"Respawn obstacles","Lisää esteitä","Hindernisse neu spawnen","Criar obstáculos","Сброс препятствий","Skapa om hinder"
-"setting",26586185523200,"Settings","Asetukset","Einstellungen","Configurações","Настройки","Inställningar"
-"manual camera",30438129459200,"Manual camera","Manuaali kamera","Manuelle Kamera","Camera manual","Свободная камера","Manuell kamera"
-"nameplates",30532958478336,"Nameplates","Nimet","Spielernamen","Exibir nomes","Имена игроков","Namnskyltar"
-"optimized",30578256961536,"Optimized","optimisoitu","Optimiert","Otimizado","Оптимизированный","Optimiserad"
-"multispawns",30695865245696,"limit to 1 character","1 hahmo per pelaaja","auf einen Spieler beschränken","Limitar à 1 personagem","Один персонаж на игрока","Begränsa till en karaktär"
-"automatic start",30970571186176,"Automatic Start","Automaattinen aloitus","Automatisch starten","Início Automático","Автозапуск","Autostart"
-"characters per player",31058051784704,"Characters Per Player","Hahmoja pelaajia kohtaan","Spieler pro Person","Personagens por jogador","Лимит персонажей на игрока","Max karaktärer per spelare"
-"max ragdolls",31146195083264,"Max Ragdolls","Maksimi hahmomäärä","Maximum Ragdoll","Máximo de bonecos","Общий лимит персонажей","Max ragdolls"
-"camera movement speed",31309663887360,"camera movement speed","kameran liikkumisnopeus","Kamera Geschwindigkeit","Velocidade da câmera","Скорость камеры","Kamerahastighet"
-"mouse sensitivity",31409890975744,"mouse sensitivity","hiiren sensitiviteetti","Maus Sensitivität","Sensibilidade do mouse","Чувствительности мыши","Muskänslighet"
-"soundEffects",31466149175296,"Sound Effects","ääniefektien volyymi","Soundeffekte","Efeitos sonoros","Звуковые эффекты","Ljudeffekter"
-"full screen",31595497316352,"full screen","kokonäyttötila","Vollbild","Tela cheia","Полный экран","Helskärm"
-"enable particles",31722630864896,"enable particles","Partiikkelit","Partikel anzeigen","Habilitar partículas","Частицы","Partikeleffekter"
-"enable character dragging",31797767626752,"enable character dragging","hahmojen vetäminen hiirellä","Charakter manipulation aktivieren","Habilitar arrastar personagem","Перетаскивание игроков","Drag & Drop spelare"
-"enable streamer icon",31899777294336,"enable streamer icon","näytä streami iconi paidassa","Streamer Symbol anzeigen","Ahabilitar ícone do streamer","Иконка стримера","Streamer ikon"
-"resolution",32398580703232,"Resolution","Resoluutio","Bildschirmauflösung","Resolução","Качество","Upplösning"
-"enable obstacles command",34571590885376,"enable obstacles command","ota esteiden komento käyttöön","Hindernis Kommando aktivieren","Habilitar comando de obstáculos","Управление препятствиями из чата","Aktivera hinderkommando"
-"enable jump command",34748288524288,"enable jump command","ota hyppy komento käyttöön","Sprung Kommando aktivieren","Habilitar comando de pular","Управление прыжком из чата","Aktivera hoppkommando"
-"enable pathfinding",34792983027712,"enhanced AI","edistynyt AI","Erweiterte KI","IA melhorada","Улучшенный ИИ","Utökad AI"
-"timescale",35746713231360,"timescale","pelin nopeus","Zeitskala","Escala do tempo","Скорость игры","Tidsfaktor"
-"speed",36392522801152,"Running speed","Juoksunopeus","Bewegungsgeschwindigkeit","Velocidade de corrida","Скорость персонажей","Hasitghet"
-"obstacle cooldown",36443659755520,"obstacle cooldown","esteiden spawnaus odotusaika","Hindernis spawn Abklingzeit","Cooldown de obstáculos","Таймер препятствий","Hindercooldown"
-"up force",36946162540544,"up force","pystyseisomisen vahvuus","Charakter aufrichtende Kraftstärke","Força para levantar","Осанка персонажей","Gravitation"
-"head muscle strength",37104065503232,"head muscle strength","päälihaksen vahvuus","Kopfmuskel Stärke","Força do músculo da cabeça","Мощность головы","Muskelstyrka för huvudet"
-"leg muscle strength",37221304688640,"leg muscle strength","jalkalihasten vahvuus","Beinmuskel Stärke","Força do músculo da perna","Мощность ног","Muskelstyrka för benen"
-"hand muscle strength",37284290551808,"hand muscle strength","käsilihasten vahvuus","Handmuskel Stärke","Força do músculo da mão","Мощность рук","Muskestyrka för händerna"
-"torso strength",37436849971200,"torso strength","vartalolihaksen vahvuus","Oberkörper Stärke","Força do torso","Мощность торса","Muskelstyrka för kroppen"
-"balance",37503052865536,"balance","tasapainotuksen vahvuus","Charakter Gleichgewichtskraft","Balanço","Баланс","Balans"
-"enable minimap",37573580087296,"enable minimap","käytä pikkukarttaa","Minikarte aktivieren","Habilitar minimapa","Мини карта","Använd miniatyrkarta"
-"map-city",375331431440384,"City","Kaupunki",,,,
-"map-dungeon",375355687100416,"Dungeon","Vankityrmä",,,,
-"map-western",375375815565312,"Western","Länsimainen",,,,
-"default-instructions",375785406128128,"!join to participate
+back,21611011170304,Back,Takaisin,Zurück,força do músculo da perna,Назад,Bakåt
+level-selection,21834177503232,Level Selection,Kartta,Level-Auswahl,força do músculo da mão,Выбор уровня,Välj bana
+start,22417005404160,Start,Aloita,Start,força do torso,Начать,Start
+spawn-players,22448743702528,Spawn players,Lisää pelaajia,Spieler hinzufügen,balanço,Разместить игроков,Skapa spelare
+respawn-obstacles,22513839300608,Respawn obstacles,Lisää esteitä,Hindernisse neu spawnen,habilitar minimapa,Сброс препятствий,Skapa om hinder
+setting,26586185523200,Settings,Asetukset,Einstellungen,Cidade,Настройки,Inställningar
+manual camera,30438129459200,Manual camera,Manuaali kamera,Manuelle Kamera,Masmorra,Свободная камера,Manuell kamera
+nameplates,30532958478336,Nameplates,Nimet,Spielernamen,Oeste,Имена игроков,Namnskyltar
+optimized,30578256961536,Optimized,optimisoitu,Optimiert,!join para participar !obstacle para criar obstáculos !jump adiciona forca ascendente,Оптимизированный,Optimiserad
+multispawns,30695865245696,limit to 1 character,1 hahmo per pelaaja,auf einen Spieler beschränken,língua,Один персонаж на игрока,Begränsa till en karaktär
+automatic start,30970571186176,Automatic Start,Automaattinen aloitus,Automatisch starten,vote no jogador vencedor pelo chat,Автозапуск,Autostart
+characters per player,31058051784704,Characters Per Player,Hahmoja pelaajia kohtaan,Spieler pro Person,morreu.,Лимит персонажей на игрока,Max karaktärer per spelare
+max ragdolls,31146195083264,Max Ragdolls,Maksimi hahmomäärä,Maximum Ragdoll,acaba de descobrir a gravidade!,Общий лимит персонажей,Max ragdolls
+camera movement speed,31309663887360,camera movement speed,kameran liikkumisnopeus,,entrou na corrida!,Скорость камеры,Kamerahastighet
+mouse sensitivity,31409890975744,mouse sensitivity,hiiren sensitiviteetti,Maus Sensitivität,Iniciando:,Чувствительности мыши,Muskänslighet
+soundEffects,31466149175296,Sound Effects,ääniefektien volyymi,Soundeffekte,Efeitos Sonoros,Звуковые эффекты,Ljudeffekter
+full screen,31595497316352,full screen,kokonäyttötila,Vollbild,Tela cheia,Полный экран,Helskärm
+enable particles,31722630864896,enable particles,Partiikkelit,Partikel anzeigen,Habilitar partículas,Частицы,Partikeleffekter
+enable character dragging,31797767626752,enable character dragging,hahmojen vetäminen hiirellä,Charakter manipulation aktivieren,Habilitar arrastar personagem,Перетаскивание игроков,Drag & Drop spelare
+enable streamer icon,31899777294336,enable streamer icon,näytä streami iconi paidassa,Streamer Symbol anzeigen,habilitar ícone do streamer,Иконка стримера,Streamer ikon
+resolution,32398580703232,Resolution,Resoluutio,Bildschirmauflösung,Resolução,Качество,Upplösning
+enable obstacles command,34571590885376,enable obstacles command,ota esteiden komento käyttöön,Hindernis Kommando aktivieren,habilitar comando de obstáculos,Управление препятствиями из чата,Aktivera hinderkommando
+enable jump command,34748288524288,enable jump command,ota hyppy komento käyttöön,Sprung Kommando aktivieren,habilitar comando de pular,Управление прыжком из чата,Aktivera hoppkommando
+enable pathfinding,34792983027712,enhanced AI,edistynyt AI,Erweiterte KI,IA melhorada,Улучшенный ИИ,Utökad AI
+timescale,35746713231360,timescale,pelin nopeus,Zeitskala,escala do tempo,Скорость игры,Tidsfaktor
+speed,36392522801152,Running speed,Juoksunopeus,Bewegungsgeschwindigkeit,Velocidade de corrida,Скорость персонажей,Hasitghet
+obstacle cooldown,36443659755520,obstacle cooldown,esteiden spawnaus odotusaika,Hindernis spawn Abklingzeit,cooldown de obstáculos,Таймер препятствий,Hindercooldown
+up force,36946162540544,up force,pystyseisomisen vahvuus,Charakter aufrichtende Kraftstärke,força para levantar,Осанка персонажей,Gravitation
+head muscle strength,37104065503232,head muscle strength,päälihaksen vahvuus,Kopfmuskel Stärke,força do músculo da cabeça,Мощность головы,Muskelstyrka för huvudet
+leg muscle strength,37221304688640,leg muscle strength,jalkalihasten vahvuus,Beinmuskel Stärke,Força do músculo da perna,Мощность ног,Muskelstyrka för benen
+hand muscle strength,37284290551808,hand muscle strength,käsilihasten vahvuus,Handmuskel Stärke,Força do músculo da mão,Мощность рук,Muskestyrka för händerna
+torso strength,37436849971200,torso strength,vartalolihaksen vahvuus,Oberkörper Stärke,Força do torso,Мощность торса,Muskelstyrka för kroppen
+balance,37503052865536,balance,tasapainotuksen vahvuus,Charakter Gleichgewichtskraft,Balanço,Баланс,Balans
+enable minimap,37573580087296,enable minimap,käytä pikkukarttaa,Minikarte aktivieren,Habilitar minimapa,Мини карта,Använd miniatyrkarta
+map-city,375331431440384,City,Kaupunki,,,,
+map-dungeon,375355687100416,Dungeon,Vankityrmä,,,,
+map-western,375375815565312,Western,Länsimainen,,,,
+default-instructions,375785406128128,"!join to participate
 !obstacle to spawn obstacles
 !jump to add upwards force","!join liittyäksesi
 !obstacle spawnaa esteen
 !jump hyppää hahmollasi",,,,
-"language",376736133210112,"language","kieli",,,,
-"horse-instructions",376977909669888,"vote for winning player in chat","äänestä voittajaa chatissa",,,,
-"has died.",377304025194496,"has died.","kuoli.",,,,
-"just discovered gravity!",377339454480384,"just discovered gravity!","keksi painovoiman!",,,,
-"has joined the race!",377463261945856,"has joined the race!","littyi kisaan!",,,,
-"Starting:",442741228363776,"Starting:","Alku:",,,,
+language,376736133210112,language,kieli,,,,
+horse-instructions,376977909669888,vote for winning player in chat,äänestä voittajaa chatissa,,,,
+has died.,377304025194496,has died.,kuoli.,,,,
+just discovered gravity!,377339454480384,just discovered gravity!,keksi painovoiman!,,,,
+has joined the race!,377463261945856,has joined the race!,littyi kisaan!,,,,
+Starting:,442741228363776,Starting:,Alku:,,,,
