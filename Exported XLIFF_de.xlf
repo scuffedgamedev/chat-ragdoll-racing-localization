@@ -188,6 +188,7 @@
       <unit id="30695865245696" name="multispawns" xml:space="preserve">
         <segment>
           <source>1 join per player</source>
+          <target>1 Beitritt pro Spieler</target>
         </segment>
       </unit>
       <unit id="30970571186176" name="automatic start" xml:space="preserve">
@@ -401,11 +402,13 @@
       <unit id="1937384038260736" name="has finished the the race at:" xml:space="preserve">
         <segment>
           <source>has finished the the race at:</source>
+          <target>hat das Rennen beendet auf Platz:</target>
         </segment>
       </unit>
       <unit id="1958597670264832" name="just fell off!" xml:space="preserve">
         <segment>
           <source>just fell off!</source>
+          <target>ist gerade heruntergefallen!</target>
         </segment>
       </unit>
     </group>
