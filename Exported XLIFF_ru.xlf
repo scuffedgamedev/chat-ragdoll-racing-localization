@@ -183,12 +183,13 @@
       <unit id="30578256961536" name="optimized" xml:space="preserve">
         <segment>
           <source>Optimized</source>
-          <target>Оптимизированный</target>
+          <target>Оптимизация</target>
         </segment>
       </unit>
       <unit id="30695865245696" name="multispawns" xml:space="preserve">
         <segment>
           <source>1 join per player</source>
+          <target>Один персонаж на игрока</target>
         </segment>
       </unit>
       <unit id="30970571186176" name="automatic start" xml:space="preserve">
@@ -338,16 +339,19 @@
       <unit id="375331431440384" name="map-city" xml:space="preserve">
         <segment>
           <source>City</source>
+          <target>Город</target>
         </segment>
       </unit>
       <unit id="375355687100416" name="map-dungeon" xml:space="preserve">
         <segment>
           <source>Dungeon</source>
+          <target>Подземелье</target>
         </segment>
       </unit>
       <unit id="375375815565312" name="map-western" xml:space="preserve">
         <segment>
           <source>Western</source>
+          <target>Дикий запад</target>
         </segment>
       </unit>
       <unit id="375785406128128" name="default-instructions" xml:space="preserve">
@@ -355,46 +359,57 @@
           <source>!join to participate
 !obstacle to spawn obstacles
 !jump to add upwards force</source>
+          <target>!join для участия в игре
+!obstacle для создания препятствий
+!jump для прыжка персонажа</target>
         </segment>
       </unit>
       <unit id="376736133210112" name="language" xml:space="preserve">
         <segment>
           <source>language</source>
+          <target>Язык</target>
         </segment>
       </unit>
       <unit id="376977909669888" name="horse-instructions" xml:space="preserve">
         <segment>
           <source>vote for winning player in chat</source>
+          <target>Голосование за персонажа в чате</target>
         </segment>
       </unit>
       <unit id="377304025194496" name="has died." xml:space="preserve">
         <segment>
           <source>has died.</source>
+          <target>погиб.</target>
         </segment>
       </unit>
       <unit id="377339454480384" name="just discovered gravity!" xml:space="preserve">
         <segment>
           <source>just discovered gravity!</source>
+          <target>открыл гравитацию!</target>
         </segment>
       </unit>
       <unit id="377463261945856" name="has joined the race!" xml:space="preserve">
         <segment>
           <source>has joined the race!</source>
+          <target>присоединился к забегу!</target>
         </segment>
       </unit>
       <unit id="442741228363776" name="Starting:" xml:space="preserve">
         <segment>
           <source>Starting:</source>
+          <target>Начинаем:</target>
         </segment>
       </unit>
       <unit id="1937384038260736" name="has finished the the race at:" xml:space="preserve">
         <segment>
           <source>has finished the the race at:</source>
+          <target>финишировал в:</target>
         </segment>
       </unit>
       <unit id="1958597670264832" name="just fell off!" xml:space="preserve">
         <segment>
           <source>just fell off!</source>
+          <target>упал!</target>
         </segment>
       </unit>
     </group>
