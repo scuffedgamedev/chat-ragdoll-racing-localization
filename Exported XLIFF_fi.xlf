@@ -410,6 +410,12 @@
           <target>putosi!</target>
         </segment>
       </unit>
+      <unit id="2964362115735552" name="skin-selection" xml:space="preserve">
+        <segment>
+          <source>Skin Selection</source>
+          <target>Hahmon valinta</target>
+        </segment>
+      </unit>
     </group>
   </file>
 </xliff>

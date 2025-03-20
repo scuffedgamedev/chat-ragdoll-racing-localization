@@ -411,6 +411,12 @@
           <target>ist gerade heruntergefallen!</target>
         </segment>
       </unit>
+      <unit id="2964362115735552" name="skin-selection" xml:space="preserve">
+        <segment>
+          <source>Skin Selection</source>
+          <target>Charakterauswahl</target>
+        </segment>
+      </unit>
     </group>
   </file>
 </xliff>
